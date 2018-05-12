@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31667
     wikipedia: http://en.wikipedia.org/wiki/August_Blanche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25924#Koston-henkiRomaani
 gutenberg_issued: '2008-06-28'
 gutenberg_type: Text
 identifiers:
